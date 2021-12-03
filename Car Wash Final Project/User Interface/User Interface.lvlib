@@ -6,6 +6,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Get Change Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Get Change Msg/Get Change Msg.lvclass"/>
 		<Item Name="Get dinero Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Get dinero Msg/Get dinero Msg.lvclass"/>
+		<Item Name="Get Product Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Get Product Msg/Get Product Msg.lvclass"/>
 	</Item>
 	<Item Name="User Interface.lvclass" Type="LVClass" URL="../User Interface.lvclass"/>
 </Library>
