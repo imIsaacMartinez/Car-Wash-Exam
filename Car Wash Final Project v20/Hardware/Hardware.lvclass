@@ -88,7 +88,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 	</Item>
 	<Item Name="Stop Core.vi" Type="VI" URL="../Stop Core.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$B!!!!"1!%!!!!.E"Q!"Y!!#%/3'&amp;S:(&gt;B=G5O&lt;(:M;7)13'&amp;S:(&gt;B=G5O&lt;(:D&lt;'&amp;T=Q!+4G6T&gt;'6E)'^V&gt;!!!&amp;U!$!""G;7ZB&lt;#"F=H*P=C"D&lt;W2F!!!U1(!!(A!!)1Z)98*E&gt;W&amp;S:3ZM&gt;GRJ9B")98*E&gt;W&amp;S:3ZM&gt;G.M98.T!!F/:8.U:71A;7Y!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!#!!-$!!"Y!!!!!!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!*)!!!!!!1!%!!!!!!</Property>

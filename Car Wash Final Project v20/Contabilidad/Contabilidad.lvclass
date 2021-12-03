@@ -61,6 +61,15 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
+	<Item Name="Create or Update DB.vi" Type="VI" URL="../Create or Update DB.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!J%E.P&lt;H2B9GFM;72B:#ZM&gt;GRJ9B2$&lt;WZU97*J&lt;'FE971O&lt;(:D&lt;'&amp;T=Q!11W^O&gt;'&amp;C;7RJ:'&amp;E)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!11$$`````"EZP&lt;7*S:1!!1E"Q!"Y!!#E31W^O&gt;'&amp;C;7RJ:'&amp;E,GRW&lt;'FC&amp;%.P&lt;H2B9GFM;72B:#ZM&gt;G.M98.T!!^$&lt;WZU97*J&lt;'FE971A;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 	<Item Name="Destroy User Events.vi" Type="VI" URL="../Destroy User Events.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$R!!!!"!!%!!!!1E"Q!"Y!!#E31W^O&gt;'&amp;C;7RJ:'&amp;E,GRW&lt;'FC&amp;%.P&lt;H2B9GFM;72B:#ZM&gt;G.M98.T!!^633"5:7VQ&lt;'&amp;U:3"P&gt;81!1E"Q!"Y!!#E31W^O&gt;'&amp;C;7RJ:'&amp;E,GRW&lt;'FC&amp;%.P&lt;H2B9GFM;72B:#ZM&gt;G.M98.T!!Z633"5:7VQ&lt;'&amp;U:3"J&lt;A!!91$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!)#!!"Y!!!!!!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!!Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
