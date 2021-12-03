@@ -4,6 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Set the Turn Msg.lvclass" Type="LVClass" URL="../../Manejador de Turnos Messages/Set the Turn Msg/Set the Turn Msg.lvclass"/>
+		<Item Name="Turn Set and Get Msg.lvclass" Type="LVClass" URL="../../Manejador de Turnos Messages/Turn Set and Get Msg/Turn Set and Get Msg.lvclass"/>
 		<Item Name="Write the VI Msg.lvclass" Type="LVClass" URL="../../Manejador de Turnos Messages/Write the VI Msg/Write the VI Msg.lvclass"/>
 	</Item>
 	<Item Name="Manejador de Turnos.lvclass" Type="LVClass" URL="../Manejador de Turnos.lvclass"/>
